@@ -1,0 +1,10 @@
+1,Echo Spot - White,Electronics,129.99,20
+2,4K LED TV, Electronics,299.99,5
+3,GoPro, Electronics,  149.99,  50
+4,Citrus Juicer,Appliances,22.49,125
+5,12 Cup CoffeeMaker,Appliances,34.99,200
+6,2-Slice Toaster,Appliances,18.99,50
+7,Shag Rug,Home,35.99,200
+8,Alarm Clock,Home,15.99,350
+9,Queen Mattress,Bed & Bath,649.99,35
+10,Comforter,Bed & Bath,79.99,75
